@@ -1,0 +1,71 @@
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.exe.config
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.exe
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.pdb
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.exe.config
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.exe
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.pdb
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.exe
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.pdb
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csprojResolveAssemblyReference.cache
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Delete_Event.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Form1.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Form2.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingChoice.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingDetails.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingSchedule.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.PersonalSchedule.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Properties.Resources.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Show_Event.resources
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csproj.GenerateResource.Cache
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.exe.config
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.exe
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.pdb
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csprojResolveAssemblyReference.cache
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Delete_Event.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Form1.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Form2.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingChoice.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingDetails.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingSchedule.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.PersonalSchedule.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Properties.Resources.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Show_Event.resources
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csproj.GenerateResource.Cache
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.exe
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.pdb
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\MySql.Data.dll
+E:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\MySql.Data.xml
+F:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\MySql.Data.xml
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.exe
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.pdb
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\MySql.Data.xml
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csprojResolveAssemblyReference.cache
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Delete_Event.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Form1.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Form2.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingChoice.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingDetails.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingSchedule.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.PersonalSchedule.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Properties.Resources.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Show_Event.resources
+K:\CSC340\Group Project\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csproj.GenerateResource.Cache
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.exe.config
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.exe
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\GroupProjectSethPortion.pdb
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\bin\Debug\MySql.Data.xml
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csprojAssemblyReference.cache
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Delete_Event.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Form1.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Form2.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingChoice.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingDetails.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.MeetingSchedule.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.PersonalSchedule.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Properties.Resources.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.Show_Event.resources
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csproj.GenerateResource.cache
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csproj.CoreCompileInputs.cache
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectVSPortion.csproj.CopyComplete
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.exe
+C:\Users\Seth\Desktop\CSC340Final\GroupProjectVSPortion\GroupProjectSethPortion\obj\Debug\GroupProjectSethPortion.pdb
